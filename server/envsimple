@@ -1,0 +1,10 @@
+PORT=3001
+DB_NAME=rkeeper
+DB_USER=puzey
+DB_PASS=123
+MAIL_EMAIL = elbruselkeeper@gmail.com
+MAIL_PASS = bhupbtwtorlegyax
+
+//elbruselkeeper@gmail.com
+//ElbrusElkeep
+//bhupbtwtorlegyax
